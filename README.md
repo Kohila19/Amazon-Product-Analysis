@@ -1,4 +1,4 @@
-Amazon Product Analysis 
+                                                  Amazon Product Analysis 
 
 A. Project Overview
 
@@ -31,46 +31,46 @@ D. Project Workflow
 
 1. Data Cleaning
 
-   The dataset was cleaned and prepared for analysis by handling issues such as:
+  The dataset was cleaned and prepared for analysis by handling issues such as:
 
- * Missing values
- * Duplicate records
- * Incorrect data types
- * Price-related formatting issues
- * Category formatting
+  * Missing values
+  * Duplicate records
+  * Incorrect data types
+  * Price-related formatting issues
+  * Category formatting
 
 2. Exploratory Data Analysis
 
-   Univariate analysis was performed to understand individual variables, including:
+  Univariate analysis was performed to understand individual variables, including:
 
- * Product prices
- * Discount percentages
- * Product ratings
- * Product categories
+  * Product prices
+  * Discount percentages
+  * Product ratings
+  * Product categories
 
-   Statistical measures and visualizations were used to understand the distribution of the data.
+ Statistical measures and visualizations were used to understand the distribution of the data.
 
 3. Bivariate Analysis
 
    Bivariate analysis was performed to investigate relationships between variables such as:
 
- * Actual Price vs Discounted Price
- * Discount Percentage vs Rating
- * Category vs Price
- * Category vs Rating
+  * Actual Price vs Discounted Price
+  * Discount Percentage vs Rating
+  * Category vs Price
+  * Category vs Rating
 
 4. Power BI Dashboard
 
    An interactive Power BI dashboard was created to provide a visual summary of the analysis.
 
- The dashboard includes:
+  The dashboard includes:
 
- * KPI cards
- * Price analysis
- * Discount analysis
- * Rating analysis
- * Category analysis
- * Interactive charts and visualizations
+  * KPI cards
+  * Price analysis
+  * Discount analysis
+  * Rating analysis
+  * Category analysis
+  * Interactive charts and visualizations
 
 E. Dashboard
 
@@ -78,33 +78,34 @@ E. Dashboard
 
 F. Dashboard Preview
 
+    
 
 G. Key Insights
 
-The analysis helps identify:
+  The analysis helps identify:
 
-* Differences between actual and discounted product prices
-* Categories with a higher concentration of products
-* Patterns in discount percentages
-* Distribution of customer ratings
-* Relationships between pricing, discounts, and ratings
+  * Differences between actual and discounted product prices
+  * Categories with a higher concentration of products
+  * Patterns in discount percentages
+  * Distribution of customer ratings
+  * Relationships between pricing, discounts, and ratings
 
 H. Project Structure
 
-text
-Amazon-Product-Analysis/
-│
-├── dataset/
-│   └── amazon_cleaned.csv
-│
-├── analysis/
-│   └── amazon_analysis.ipynb
-│
-├── dashboard/
-│   └── Amazon_Dashboard.pbix
-│
-├── screenshots/
-│   └── dashboard.png
-│
-└── README.md
+ text
+ Amazon-Product-Analysis/
+ │
+ ├── dataset/
+ │   └── amazon_cleaned.csv
+ │
+ ├── analysis/
+ │   └── amazon_analysis.ipynb
+ │
+ ├── dashboard/
+ │   └── Amazon_Dashboard.pbix
+ │
+ ├── screenshots/
+ │   └── dashboard.png
+ │
+ └── README.md
 

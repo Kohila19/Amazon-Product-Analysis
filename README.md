@@ -78,7 +78,8 @@ E. Dashboard
 
 F. Dashboard Preview
 
-    
+    <img width="893" height="497" alt="Dashboard screenshot" src="https://github.com/user-attachments/assets/aee6e846-12a6-4f15-ae75-b01fe61b2fc1" />
+
 
 G. Key Insights
 
